@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as l,ae as s}from"./chunks/framework.CJ5J6sFT.js";const g=JSON.parse('{"title":"GYIK","description":"","frontmatter":{},"headers":[],"relativePath":"hu_HU/faq.md","filePath":"hu_HU/faq.md"}'),r={name:"hu_HU/faq.md"};function o(n,e,i,m,k,d){return t(),l("div",null,[...e[0]||(e[0]=[s("",30)])])}const h=a(r,[["render",o]]);export{g as __pageData,h as default};
