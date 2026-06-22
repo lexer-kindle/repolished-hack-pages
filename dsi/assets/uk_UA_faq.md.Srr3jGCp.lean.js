@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as t,ae as l}from"./chunks/framework.DweSwlXA.js";const p=JSON.parse('{"title":"ЧаПи","description":"","frontmatter":{},"headers":[],"relativePath":"uk_UA/faq.md","filePath":"uk_UA/faq.md"}'),n={name:"uk_UA/faq.md"};function o(r,e,s,h,u,d){return i(),t("div",null,[...e[0]||(e[0]=[l("",60)])])}const m=a(n,[["render",o]]);export{p as __pageData,m as default};
