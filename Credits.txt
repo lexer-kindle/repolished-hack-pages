@@ -1,0 +1,3 @@
+Editor and Polisher: Lexer Kindle
+
+Copyright © 2024 Nintendo Homebrew + Compiled and polished by Lexer Kindle
