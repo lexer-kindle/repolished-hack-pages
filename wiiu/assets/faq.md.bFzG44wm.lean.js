@@ -1,0 +1,1 @@
+import{_ as a,c as t,o,ae as i}from"./chunks/framework.CdRwXDbP.js";const p=JSON.parse('{"title":"Frequently Asked Questions","description":"","frontmatter":{},"headers":[],"relativePath":"faq.md","filePath":"faq.md"}'),r={name:"faq.md"};function s(n,e,l,d,h,u){return o(),t("div",null,e[0]||(e[0]=[i("",26)]))}const m=a(r,[["render",s]]);export{p as __pageData,m as default};
