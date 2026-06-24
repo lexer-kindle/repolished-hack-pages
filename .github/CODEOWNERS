@@ -1,5 +1,6 @@
 # Global owners for all guide files
 *       @lexer-kindle
+*       @A-Hackers-Guide
 
 # Specific people can be assigned to specific console folders if needed
 /3ds/ @hacks.guide
@@ -18,3 +19,11 @@
 /ios/ @lexer-kindle
 /cemu/ @lexer-kindle
 /dsi/ @lexer-kindle
+/3ds/ @A-Hackers-Guide
+/wiiu/ @A-Hackers-Guide
+/vita/ @A-Hackers-Guide
+/wii/ @A-Hackers-Guide
+/switch/ @A-Hackers-Guide
+/ios/ @A-Hackers-Guide
+/cemu/ @A-Hackers-Guide
+/dsi/ @A-Hackers-Guide
